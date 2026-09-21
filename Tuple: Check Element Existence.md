@@ -17,6 +17,7 @@ print("n" not in a)
 print("8" in a)
 
 ## Output
+<img width="740" height="190" alt="image" src="https://github.com/user-attachments/assets/4cdc694e-7cad-45e8-b333-2540dbd04734" />
 
 ## Result
 Thus the given program is verified and executed sucessfully
